@@ -1,0 +1,1 @@
+**Freedom Music** is a modern desktop application designed to streamline your listening experience. It unifies seamless streaming with intuitive personal library management in a sleek, distraction-free interface. Built for true music enthusiasts, it empowers you to curate playlists and enjoy your favorite tracks effortlessly, offering total control over your audio environment.
